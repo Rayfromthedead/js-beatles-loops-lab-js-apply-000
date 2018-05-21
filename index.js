@@ -21,6 +21,6 @@ return factsAboutJohnLennon;
 function iLoveTheBeatles (num){
 var emptyArrayTwo = [];
 do {emptyArrayTwo.push("I love the Beatles");num++;}
-while (num<7, num>17);
+while (num<15);
   return emptyArrayTwo;
 }
