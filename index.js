@@ -18,5 +18,8 @@ while (facts[i]) {factsAboutJohnLennon.push(facts[i] + "!!!"); i++;}
 return factsAboutJohnLennon;
 }
 
+function iLoveTheBeatles (number)
+var emptyArray2 = [];
+do (emptyArray2[number])
 
 
