@@ -20,7 +20,7 @@ return factsAboutJohnLennon;
 
 function iLoveTheBeatles (num){
 var emptyArrayTwo = [];
-do {emptyArrayTwo.push("I love the Beatles"); num++}
+do {emptyArrayTwo.push("I love the Beatles");num++;}
 while (num<15, num>17);
   return emptyArrayTwo;
 }
